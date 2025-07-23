@@ -86,9 +86,5 @@ Performed data analysis on real estate sales data using Python and Tableau. Crea
 - Decision Making  
 
 ---
-Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=22K61A4413&theme=tokyonight)
-Profile Views Badge:
-![Profile views](https://komarev.com/ghpvc/?username=22K61A4413&color=blue)
 
 Thanks for visiting my profile! Feel free to explore my repositories or reach out via [email](mailto:ammulubobbili430@gmail.com).
