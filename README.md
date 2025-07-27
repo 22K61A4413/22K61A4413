@@ -84,14 +84,9 @@ Performed data analysis on real estate sales data using Python and Tableau. Crea
 
 - Time Management  
 - Decision Making  
-
+- Quick Learning
 ---
 
 Thanks for visiting my profile! Feel free to explore my repositories or reach out via [email](mailto:ammulubobbili430@gmail.com).
-
-
-
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=22K61A4413&theme=dark)
-![Last Commit](https://img.shields.io/github/last-commit/22K61A4413)
 
