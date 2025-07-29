@@ -90,7 +90,4 @@ Performed data analysis on real estate sales data using Python and Tableau. Crea
 Thanks for visiting my profile! Feel free to explore my repositories or reach out via [email](mailto:ammulubobbili430@gmail.com).
 
 ---
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=22K61A4413&theme=dark)
 
