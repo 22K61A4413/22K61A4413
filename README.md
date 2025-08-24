@@ -3,7 +3,7 @@
 **Aspiring Data Analyst | Machine Learning Enthusiast**  
 📍 Ch. Agraharam | 📧 ammulubobbili430@gmail.com | 📱 9949658908
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ammulu-bobbili-b33656280/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ammulu-bobbili-b33656280/) 
 [![GitHub](https://img.shields.io/badge/GitHub-22K61A4413-black)](https://github.com/22K61A4413)
 [![CodeChef](https://img.shields.io/badge/CodeChef-ammulu50-orange)](https://www.codechef.com/users/ammulu50)
 
