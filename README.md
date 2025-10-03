@@ -1,4 +1,4 @@
-# 👩‍💻 Ammulu Bobbili 
+# 👩‍💻 Ammulu Bobbili
 
 **Aspiring Data Analyst | Machine Learning Enthusiast** 
 📍 Ch. Agraharam | 📧 ammulubobbili430@gmail.com | 📱 9949658908
